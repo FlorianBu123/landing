@@ -1,0 +1,13 @@
+.btn-white {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    background-color:rgba(255, 255, 255, 0.8);
+    padding: 16px 36px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.btn-white:hover {
+    background-color:rgba(255, 255, 255, 1);
+}

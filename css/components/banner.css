@@ -1,0 +1,21 @@
+.banner {
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),    url("../../images/Zurich.jpg");
+    height: 20px;
+    background-size: cover;
+    background-position: center;
+    padding: 280px 0;
+}
+
+.banner h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+    margin-bottom: 0cm;
+}
+
+.banner p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    opacity: 7;
+    font-size: 25px;
+}
